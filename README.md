@@ -1,12 +1,15 @@
 # Obstacle Avoiding B-Robot EVO
-  
+
+added additional distance sensors to the balancing robot.
+
 <p><img src="img/front.jpg" width="500px"></p>
 
 Hardware: 
 - Board: WEMOS/LOLIN D1 MINI 
 - HC-SR04 Ultrasonic Sensor https://github.com/jshaw/NewPingESP8266 
 - SG90 Micro Servo
-electroic components:
+
+electronic components:
 - a Zener Diode und a 330 Ohm Resistor for the HC-SR04: https://www.letscontrolit.com/wiki/index.php/HC-SR04#Connecting_using_a_Zener_Diode
 
 optional: (remove the corresponding code)
@@ -28,3 +31,4 @@ required wiring should be obvious from the code
 
 <p><img src="img/back.jpg" width="500px"></p>
 <p><img src="img/addon.jpg" width="500px"></p>
+wemos d1 with prototype board, IR-Diode, Resistor and a Diode for the ultrasonic sensor
